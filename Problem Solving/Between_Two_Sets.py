@@ -23,12 +23,12 @@ Output Format
 Print two space-seperated integers describing the respective numbers of times her best (highest) score increased and her worst (lowest) score decreased.
 
 Sample Input 0
-
 9
 10 5 20 20 4 5 2 25 1
-Sample Output 0
 
+Sample Output 0
 2 4
+
 Explanation 0
 
 The diagram below depicts the number of times Maria broke her best and worst records throughout the season:
@@ -38,12 +38,12 @@ image
 She broke her best record twice (after games  and ) and her worst record four times (after games , , , and ), so we print 2 4 as our answer. Note that she did not break her record for best score during game , as her score during that game was not strictly greater than her best record at the time.
 
 Sample Input 1
-
 10
 3 4 21 36 10 28 35 5 24 42
-Sample Output 1
 
+Sample Output 1
 4 0
+
 Explanation 1
 
 The diagram below depicts the number of times Maria broke her best and worst records throughout the season:

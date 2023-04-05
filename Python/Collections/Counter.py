@@ -27,13 +27,16 @@ First line contains, X number of shoes.
 Second line contains, space separated size of the shoes. 
 Third line contains, N number of customers. 
 Next N line contain, space separated values of shoe size and xi price of shoe.
+
 Constraints
 0<X<103 
 0<N≤103 
 20<xi<100 
 2<shoe size<20
+
 Output Format
 Print the amount of money earned by Raghu
+
 Sample Input
 10
 2 3 4 5 6 8 7 6 5 18
@@ -44,8 +47,10 @@ Sample Input
 4 40
 18 60
 10 50
+
 Sample Output
 200
+
 Explanation
 Customer 1 : Purchased shoe of size 6 for $ 55. 
 Customer 2 : Purchased shoe of size 6 for $ 45. 

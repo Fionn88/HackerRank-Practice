@@ -19,7 +19,6 @@ Output Format
 Print Hello, World! to stdout.
 
 Sample Output 0
-
 Hello, World!
 """
 

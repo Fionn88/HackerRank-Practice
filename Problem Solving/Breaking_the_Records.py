@@ -19,6 +19,7 @@ def breakingRecords(scores):
     MaxValue = scores[0]
     MinValue = scores[0]
     Min = 0
+    # This Case Using max() min() function is invalid, You Have To Count The Times
     for i in range(len(scores)):
         if scores[i] < MinValue:
             MinValue = scores[i]

@@ -17,6 +17,10 @@ import sys
 
 def introTutorial(V, arr):
     # Write your code here
+    for i in range(len(arr)):
+        if arr[i] == V:
+            print(i)
+            return i
 
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')

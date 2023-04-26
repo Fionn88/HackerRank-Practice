@@ -11,3 +11,4 @@ for _ in range(n):
     student = students(MARKS, CLASS, NAME, ID)
     total_marks += int(student.MARKS)
 print('{:.2f}'.format(total_marks / n))
+

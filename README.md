@@ -4,3 +4,5 @@
 
 - 2023/05/15
   - 暫時停止寫題，準備考AWS SAA，與練習Python著重點會在ccClub Project上
+- 2023/08/17
+  - 成功考到 SAA
